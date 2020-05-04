@@ -1,0 +1,1 @@
+This directory is used to store datasets for model training. Run `update.sh` script from utils to download them.
